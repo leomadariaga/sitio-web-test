@@ -1,0 +1,33 @@
+header {
+	background-color: darkgreen;
+} 
+
+.grilla-encabezado {
+	display: grid;
+	grid-template-columns: 200px auto;
+}
+
+.grilla-encabezado-1 {
+	background-color: white;
+
+}
+
+.grilla-encabezado-p {
+	background-color: #015b49;
+}
+
+.grilla-encabezado-2 {
+	background-color: #015a49;
+}
+
+.navbar-light {
+	background-color: #a1c331;
+}
+
+.barra {
+	background-color: #086c64;
+}
+
+.acreditacion {
+	background-color: #114a42;
+}
